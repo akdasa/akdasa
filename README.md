@@ -1,1 +1,1 @@
-# akdasa
+![Stats](https://github-readme-stats.vercel.app/api?username=akdasa&count_private=true&show_icons=true)
