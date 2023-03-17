@@ -25,9 +25,7 @@ jobs:
           # Options
           user: akdasa
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Calcutta
-
+          
           # 🗳️ Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user : akdasa
