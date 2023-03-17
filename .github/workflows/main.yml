@@ -25,7 +25,7 @@ jobs:
           # Options
           user: akdasa
           template: classic
-          base: header
+          base: ''
           config_timezone: Asia/Calcutta
           
           # 🗳️ Leetcode
