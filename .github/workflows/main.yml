@@ -32,3 +32,9 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user : akdasa
           plugin_leetcode_sections: solved, skills, recent
+          
+          # ⏰ WakaTime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, languages-graphs, projects, projects-graphs, editors, os, os-graphs, editors-graphs
+          plugin_wakatime_days: 365
