@@ -37,5 +37,6 @@ jobs:
           # ⏰ WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-          plugin_wakatime_sections: time, languages, languages-graphs, projects, projects-graphs, editors, os, os-graphs, editors-graphs
-          plugin_wakatime_days: 365
+          # plugin_wakatime_sections: time, languages, languages-graphs, projects, projects-graphs, editors, os, os-graphs, editors-graphs
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
+          #plugin_wakatime_days: 365
