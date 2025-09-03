@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="511" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="541" class="">
     <defs>
         <style/>
     </defs>
@@ -63,8 +63,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.259329882865704 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">81</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.348951239444293 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">82</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3671</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -72,8 +72,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.46703910614525 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">72</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.83463687150838 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">73</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/895</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -110,13 +110,13 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x38</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x29</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x23</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x11</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x11</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x10</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x12</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x12</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x11</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x10</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x8</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x7</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x7</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x7</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -131,8 +131,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Unique Email Addresses</div>
-                            <div class="date">25 Jan 2024</div>
+                            <div class="title">Minimum Depth of Binary Tree</div>
+                            <div class="date">3 Sept 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -140,8 +140,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Common Prefix</div>
-                            <div class="date">24 Jan 2024</div>
+                            <div class="title">Maximum Depth of Binary Tree</div>
+                            <div class="date">3 Sept 2025</div>
                         </div>
                     </div>
                 </section>
